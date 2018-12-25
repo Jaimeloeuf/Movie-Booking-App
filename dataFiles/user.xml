@@ -1,0 +1,42 @@
+<dataStorage.User-array>
+  <dataStorage.User>
+    <ID>0</ID>
+    <staffAccess>false</staffAccess>
+    <name>Jun Jie</name>
+    <userName>JJ</userName>
+    <password>jj</password>
+    <bookingVector>
+      <bookingVector/>
+    </bookingVector>
+  </dataStorage.User>
+  <dataStorage.User>
+    <ID>1</ID>
+    <staffAccess>false</staffAccess>
+    <name>Amos Lin</name>
+    <userName>Amos</userName>
+    <password>Lim</password>
+    <bookingVector>
+      <bookingVector/>
+    </bookingVector>
+  </dataStorage.User>
+  <dataStorage.User>
+    <ID>2</ID>
+    <staffAccess>false</staffAccess>
+    <name>Jacky</name>
+    <userName>Jackie</userName>
+    <password>Chan</password>
+    <bookingVector>
+      <bookingVector/>
+    </bookingVector>
+  </dataStorage.User>
+  <dataStorage.User>
+    <ID>3</ID>
+    <staffAccess>true</staffAccess>
+    <name>Johnny</name>
+    <userName>Staff</userName>
+    <password>staff</password>
+    <bookingVector>
+      <bookingVector/>
+    </bookingVector>
+  </dataStorage.User>
+</dataStorage.User-array>

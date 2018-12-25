@@ -1,0 +1,22 @@
+<dataStorage.Genre-array>
+  <dataStorage.Genre>
+    <genre__ID>0</genre__ID>
+    <name>Comedy</name>
+    <description>Light hearted fun movies</description>
+  </dataStorage.Genre>
+  <dataStorage.Genre>
+    <genre__ID>1</genre__ID>
+    <name>Sci-Fi</name>
+    <description>Science Fiction in MOTION</description>
+  </dataStorage.Genre>
+  <dataStorage.Genre>
+    <genre__ID>2</genre__ID>
+    <name>Romance</name>
+    <description>Making your heart go ba dam ba dam</description>
+  </dataStorage.Genre>
+  <dataStorage.Genre>
+    <genre__ID>3</genre__ID>
+    <name>Adventure</name>
+    <description>Never too old for an adventure!</description>
+  </dataStorage.Genre>
+</dataStorage.Genre-array>
